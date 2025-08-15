@@ -1,0 +1,18 @@
+Loading model vidore/colpali-v1.2 on cuda (torch.bfloat16) ...
+Fetching 2 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<?, ?it/s]
+Loading checkpoint shards: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00, 18.81it/s]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Rendering pages ...
+Encoding 601 pages ...
+Encoding pages:   0%|                                                                                                                                                                               | 0/601 [00:00<?, ?it/s]D:\AI_Test\.venv\Lib\site-packages\transformers\tokenization_utils_base.py:2696: UserWarning: `max_length` is ignored when `padding`=`True` and there is no truncation strategy. To pad to max length, use `padding='max_length'`.
+  warnings.warn(
+Encoding pages: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 601/601 [03:32<00:00,  2.83it/s]
+Encoding query: 'Bridge Tables'
+Scoring (MaxSim) ...
+
+Top Seiten:
+  - Seite   2 | Score 972.000 |
+  - Seite   4 | Score 972.000 |
+  - Seite  10 | Score 972.000 |
+  - Seite  28 | Score 972.000 |
+  - Seite  72 | Score 972.000 |
