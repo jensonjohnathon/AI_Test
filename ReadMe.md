@@ -34,3 +34,7 @@ Dieses Projekt enthält verschiedene Python-Skripte zur Extraktion von Tabellen 
   - Textausgabe mit Scores und Seitennummern (z.B. `output.txt`)
   - Nutzt Embedding-Dateien als Input
   - Bis jetzt scheint aber noch ein Fehler aufzutreten da alle Seiten gleich relevant sind.
+
+### [out.md und out1.md]
+
+Hier kann mann den Output von PDF zu MD Modell Numarkdown sehen.
